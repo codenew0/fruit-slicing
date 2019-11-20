@@ -1,2 +1,6 @@
 # fruit-slicing
-Unity
+
+Unity fruit slicing game
+
+Binary file for MacOS
+
